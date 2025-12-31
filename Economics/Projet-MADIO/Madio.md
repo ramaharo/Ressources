@@ -839,4 +839,4 @@ Documents de travail
 
 - Brice Randrianasolo, "Note méthodologique sur l'enquête consommation dans l'agglomération d'Antananarivo entre septembre 2000 et août 2001", Document de Travail no. **2001-08/DT**.
 
-- Tiana rambeloma, "Note méthodologique sur l'enquête sur l'évaluation des impacts de la crise sur le secteur industriel", Document de Travail no. **2001-09/DT**.
+- Tiana Rambeloma, "Note méthodologique sur l'enquête sur l'évaluation des impacts de la crise sur le secteur industriel", Document de Travail no. **2001-09/DT**.
