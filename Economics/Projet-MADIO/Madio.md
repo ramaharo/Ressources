@@ -1,3 +1,5 @@
+
+
 ## Etudes et documents de travail du Projet MADIO
 
 Le **[Projet MADIO](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers20-11/010031642.pdf)** à Madagascar a donné lieu à la publication de nombreuses études et documents de travail sur l'économie malgache. Initialement hébergés sur le site de l'Institut National de la Statistique ([INSTAT](https://instat.mg/)) dès sa mise en ligne en [2003](https://web.archive.org/web/20030312002859/http://www.instat.mg/), ces documents sont devenus inaccessibles suite à des incidents techniques et aux mises à jour successives du portail.
@@ -665,9 +667,9 @@ Documents de travail
 
 - Denis Cogneau, "Rapport de mission de M. Denis COGNEAU sur la modélisation d'équilibre général calculable à Madagascar, 15-23 avril 1997", Document de Travail no. **9709/DT**. 
 
-- Florence Arestoff, "Rapport de mission de Mlle Florence ARESTOFF sur la mise en place de l'enquête Santé-Education-Transfert (SET97), 24 avril- 9 mai 1997" , Document de Travail no. **9710/DT**. 
+- Florence Arestoff, "Rapport de mission de Mlle Florence ARESTOFF sur la mise en place de l'enquête Santé-Education-Transfert (SET97), 24 avril- 9 mai 1997", Document de Travail no. **9710/DT**. 
 
-- Jean Razafindravonona, "[Rapport de stage de M. Jean RAZAFINDRAVONONA, DSM, INSTAT : participation à l'atelier "Techniques de sondages", organisé par l'INSEE, Libourne (France), 6-20 juin 1997](https://web.archive.org/web/20111113151629/http://www.instat.mg/pdf/9711dt.pdf)" , Document de Travail no. **9711/DT**. 
+- Jean Razafindravonona, "[Rapport de stage de M. Jean RAZAFINDRAVONONA, DSM, INSTAT : participation à l'atelier "Techniques de sondages", organisé par l'INSEE, Libourne (France), 6-20 juin 1997](https://web.archive.org/web/20111113151629/http://www.instat.mg/pdf/9711dt.pdf)", Document de Travail no. **9711/DT**. 
 
 - Mireille Razafindrakoto, "[Propositions sur la méthodologie et la gestion de la fiche réponse](https://web.archive.org/web/20111113144839/http://www.instat.mg/pdf/9712dt.pdf)", Document de Travail no. **9712/DT**.
 
@@ -742,7 +744,7 @@ Documents de travail
 
 - Antoine Bommier, "Formation à l'analyse micro-économétrique des comportements et application au cas du marché du travail à partir des enquêtes MADIO. Rapport de mission de M. Antoine BOMMIER, 9-18 décembre 1998", Document de Travail no. **9824/DT**.
 
-- Saminirina Andriambelosoa, "Rapport de mission de Saminirina ANDRIAMBELOSOA à Antsirabe sur le module "radios rurales " des observatoires MADIO, Antsirabe, 24 novembre 1998", Document de Travail no. **9825/DT**.
+- Saminirina Andriambelosoa, "Rapport de mission de Saminirina ANDRIAMBELOSOA à Antsirabe sur le module "radios rurales" des observatoires MADIO, Antsirabe, 24 novembre 1998", Document de Travail no. **9825/DT**.
 
 - Roland Rafidimanana, "Rapport de mission de Roland RAFIDIMANANA sur l'observatoire d'Antsirabe, campagne d'enquêtes 1998, 7 juillet - 23 août 1998", Document de Travail no. **9826/DT**.
 
@@ -792,33 +794,33 @@ Documents de travail
 2000
 --
 
-- Nicolas Razafindratsima, "Propositions d'action pour l'accès du Projet MADIO II au WEB et à la messagerie électronique " Document de Travail no. **2000-01/DT**.
+- Nicolas Razafindratsima, "Propositions d'action pour l'accès du Projet MADIO II au WEB et à la messagerie électronique", Document de Travail no. **2000-01/DT**.
 
-- Eric N. Ramilison, "Rapport d'Activité du Projet MADIO II, pour la période de juillet à décembre 1999 " Document de Travail no. **2000-02/DT**.
+- Eric N. Ramilison, "Rapport d'Activité du Projet MADIO II, pour la période de juillet à décembre 1999", Document de Travail no. **2000-02/DT**.
 
-- Faly Hery Rakotomanana,"Note méthodologique sur la préparation de l'enquête emploi dans les grands centres urbains " Document de Travail no. **2000-03/DT**. 
+- Faly Hery Rakotomanana,"Note méthodologique sur la préparation de l'enquête emploi dans les grands centres urbains", Document de Travail no. **2000-03/DT**. 
 
-- Raphaël Ratovoarinony, "Rapport de synthèse méthodologique sur la campagne des opérations des observatoires ruraux 2000 " Document de Travail no. **2000-04/DT**.
+- Raphaël Ratovoarinony, "Rapport de synthèse méthodologique sur la campagne des opérations des observatoires ruraux 2000", Document de Travail no. **2000-04/DT**.
 
-- Nirina Haja Andrianjaka, "Rapport de mission M. ANDRIANJAKA Nirina Haja à Paris du 13 novembre au 01décembre : Stage de formation sur les modèles économétriques (approfondissement) " Document de Travail no. **2000-05/DT**.
+- Nirina Haja Andrianjaka, "Rapport de mission M. ANDRIANJAKA Nirina Haja à Paris du 13 novembre au 01décembre : Stage de formation sur les modèles économétriques (approfondissement)", Document de Travail no. **2000-05/DT**.
 
-- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoires rural de l'Alaotra du 26 au 29 septembre " , Document de Travail no. **2000-06/DT**.
+- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoires rural de l'Alaotra du 26 au 29 septembre", Document de Travail no. **2000-06/DT**.
 
-- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de l'Alaotra du 26 au 29 septembre 2000 " , Document de Travail no. **2000-07/DT**.
+- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de l'Alaotra du 26 au 29 septembre 2000", Document de Travail no. **2000-07/DT**.
 
-- Voahirana Razanamavo, "Rapport de mission A Fénérive-Est du 27septembre au 02 octobre 2000" , Document de Travail no. **2000-08/DT**.
+- Voahirana Razanamavo, "Rapport de mission A Fénérive-Est du 27septembre au 02 octobre 2000", Document de Travail no. **2000-08/DT**.
 
-- Voahirana Razanamavo, "Rapport de mission de suivi d'enquête dans l'observatoire Manjakandriana du 23 au 26 octobre 2000 " Document de Travail no. **2000-09/DT**.
+- Voahirana Razanamavo, "Rapport de mission de suivi d'enquête dans l'observatoire Manjakandriana du 23 au 26 octobre 2000", Document de Travail no. **2000-09/DT**.
 
-- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de Tuléar/PSO du 22 au 26 octobre 2000" , Document de Travail no. **2000-10/DT**.
+- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de Tuléar/PSO du 22 au 26 octobre 2000", Document de Travail no. **2000-10/DT**.
 
 - Raphaël Ratovoarinony, "Rapport de stage : analyse de la dynamique de la pauvreté à DIAL Paris du 21 octobre au 06 novembre 2000", Document de Travail no. **2000-11/DT**. 
 
-- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de Tuléar/PSO du 10 au 13 novembre 2000" , Document de Travail no. **2000-12/DT**.
+- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de Tuléar/PSO du 10 au 13 novembre 2000", Document de Travail no. **2000-12/DT**.
 
-- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de Manjakandriana du 15 au 18 novembre 2000" Document de Travail no. **2000-13/DT**.
+- Rolland Rafidimanana, "Rapport de mission de suivi d'enquête dans l'observatoire rural de Manjakandriana du 15 au 18 novembre 2000", Document de Travail no. **2000-13/DT**.
 
-- Voahirana Razanamavo, "Rapport de mission dans l'observatoire rural de Bongolava du 04 au 08décembre 2000 " , Document de Travail no. **2000-14/DT**. 
+- Voahirana Razanamavo, "Rapport de mission dans l'observatoire rural de Bongolava du 04 au 08décembre 2000", Document de Travail no. **2000-14/DT**. 
 
 2001
 -----
@@ -839,4 +841,4 @@ Documents de travail
 
 - Brice Randrianasolo, "Note méthodologique sur l'enquête consommation dans l'agglomération d'Antananarivo entre septembre 2000 et août 2001", Document de Travail no. **2001-08/DT**.
 
-- Tiana Rambeloma, "Note méthodologique sur l'enquête sur l'évaluation des impacts de la crise sur le secteur industriel", Document de Travail no. **2001-09/DT**.
+- Tiana rambeloma, "Note méthodologique sur l'enquête sur l'évaluation des impacts de la crise sur le secteur industriel", Document de Travail no. **2001-09/DT**.
